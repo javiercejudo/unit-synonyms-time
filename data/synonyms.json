@@ -1,0 +1,68 @@
+{
+  "nanosecond": "nanosecond",
+  "nanoseconds": "nanosecond",
+  "ns": "nanosecond",
+
+  "microsecond": "microsecond",
+  "microseconds": "microsecond",
+  "μs": "microsecond",
+
+  "millisecond": "millisecond",
+  "milliseconds": "millisecond",
+  "ms": "millisecond",
+
+  "second": "second",
+  "seconds": "second",
+  "s": "second",
+  "sec": "second",
+
+  "minute": "minute",
+  "minutes": "minute",
+  "min": "minute",
+
+  "hour": "hour",
+  "hours": "hour",
+  "hr": "hour",
+  "h": "hour",
+
+  "day": "day",
+  "days": "day",
+  "civil day": "day",
+  "civil days": "day",
+  "d": "day",
+
+  "week": "week",
+  "weeks": "week",
+  "Wk.": "week",
+
+  "month": "month",
+  "months": "month",
+  "mean month": "month",
+  "mean months": "month",
+
+  "year": "year",
+  "years": "year",
+  "mean year": "year",
+  "mean years": "year",
+  "a": "year",
+  "y": "year",
+  "yr": "year",
+
+  "decade": "decade",
+  "decades": "decade",
+  "mean decade": "decade",
+  "mean decades": "decade",
+
+  "century": "century",
+  "centuries": "century",
+  "c.": "century",
+  "cent.": "century",
+  "Cent.": "century",
+  "mean century": "century",
+  "mean centuries": "century",
+
+  "millennium": "millennium",
+  "millenniums": "millennium",
+  "mean millennium": "millennium",
+  "mean millenniums": "millennium"
+}
