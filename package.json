@@ -1,6 +1,6 @@
 {
   "name": "unit-synonyms-time",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Time units synonyms",
   "main": "src/index.js",
   "scripts": {
